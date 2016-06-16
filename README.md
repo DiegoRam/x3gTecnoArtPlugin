@@ -21,4 +21,11 @@ Esta nueva version genera un archivo con extension .x3g en el mismo directorio d
 Aca la parte mas importante es el archivo param.ini que es el que contiene todos los parametros seteados especialmente para la impresora Tecnoart II de Far (la cual es una replica de la MakerBot).
 Tener en cuenta que en el parametro de "Tipo de Maquina" se debe indicar que es una "r1d" (MakerBot dual extruder)
 
+## Informacion adicional
+
+Este plugin es un wrapper de la herramientas [GPX](https://github.com/whpthomas/GPX).
+Ambos ejecutables incluidos en este repositorio fueron compilados en un Windows 7 (I know!) y en OSX El Capitan. Ante cualquier problema recomiendo que recompilen directamente desde el source que encontraran en el proyecto de referencia.
+
+ENJOY!
+
 
